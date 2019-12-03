@@ -1,1 +1,10 @@
 ERROR 2019-12-03 00:16:35 unity.settings UnitySettings.cpp:404 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-12-03 01:24:59 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+ERROR 2019-12-03 01:24:59 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+ERROR 2019-12-03 01:24:59 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+compiz (core) - Warn: Couldn't bind background pixmap 0x3000001 to texture
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+compiz (core) - Warn: Couldn't bind background pixmap 0x3800001 to texture
